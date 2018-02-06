@@ -1,2 +1,2 @@
 # TypeScriptSample
-初めてのサンプルを登録します。
+Visual Studio 用にサンプルを変更します。
